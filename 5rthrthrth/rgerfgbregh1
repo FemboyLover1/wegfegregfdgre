@@ -555,8 +555,7 @@ if not betterShared(shared.Hazel_wareLoaded) then
 		SprintController = knit.Controllers["SprintController"],
 		JadeHammerController = knit.Controllers["JadeHammerController"],
 		PictureModeController = knit.Controllers["PictureModeController"],
-		SwordController = knit.Controllers["SwordController"],
-		GroundHit = game:GetService("ReplicatedStorage").rbxts_include.node_modules:FindFirstChild("@rbxts").net.out._NetManaged.GroundHit
+		SwordController = knit.Controllers["SwordController"]
 	}
 
 
